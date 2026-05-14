@@ -1,0 +1,3 @@
+user_data.json
+customer_records.csv
+encrypted_payload.bin
