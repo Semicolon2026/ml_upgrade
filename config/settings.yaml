@@ -1,0 +1,6 @@
+application:
+  name: ml_upgrade
+  environment: development
+
+security:
+  enable_encryption: true
